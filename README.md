@@ -5,3 +5,4 @@
 - React.js
 - TypeScript
 - FireBase
+- Sass
