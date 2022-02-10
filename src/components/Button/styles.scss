@@ -1,7 +1,6 @@
-@import './Custom_Colors';
+@import '../../styles/Custom_Colors';
 
 .button {
-  margin-top: 64px;
   height: 50px;
   border-radius: 8px;
   font-weight: 500;
@@ -20,6 +19,12 @@
 
   img {
     margin-right: 8px;
+  }
+
+  &.outlined {
+    background: $white;
+    border: 1px solid $secondaryColor;
+    color: $secondaryColor;
   }
 
   &:hover {
