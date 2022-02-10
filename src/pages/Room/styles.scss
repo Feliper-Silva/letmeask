@@ -1,4 +1,4 @@
-@import './Custom_Colors';
+@import '../../styles/Custom_Colors';
 
 #page-room {
   header {
@@ -14,6 +14,15 @@
 
       > img {
         max-height: 45px;
+      }
+
+      > div {
+        display: flex;
+        gap: 16px;
+
+        button {
+          height: 40px;
+        }
       }
     }
   }
@@ -95,6 +104,10 @@
           }
         }
       }
+    }
+
+    .question-list {
+      margin-top: 32px;
     }
   }
 }

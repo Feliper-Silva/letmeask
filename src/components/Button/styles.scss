@@ -1,4 +1,4 @@
-@import './Custom_Colors';
+@import '../../styles/Custom_Colors';
 
 .button {
   height: 50px;
@@ -19,6 +19,12 @@
 
   img {
     margin-right: 8px;
+  }
+
+  &.outlined {
+    background: $white;
+    border: 1px solid $secondaryColor;
+    color: $secondaryColor;
   }
 
   &:hover {
