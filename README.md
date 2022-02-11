@@ -7,13 +7,10 @@
 - [x] Realizar e mostrar pergunta dentro da sala.
 - [x] Dar like na pergunta.
 - [x] Identificar o criador da sala.
-  - Features:
-    - [x] Excluir pergunta.
-    - [x] Encerrar sala.
 
 ## 🛠️ Tech Stack:
 
-- React.js
+- ReactJs
 - TypeScript
 - FireBase
 - Sass
