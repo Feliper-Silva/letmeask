@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/84206933/153651737-7c52241c-b10f-4463-ac3c-e429bde46766.svg" alt="Logo letmeask"  /></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/84206933/153656002-4f943cde-a9e3-4706-b98b-c9069960f5ac.svg" alt="Logo letmeask"  /></h1>
+
 
 
 <h3 align="center"> <img src="https://img.shields.io/badge/LICENSE-MIT-05122a?style=flat&logo=license" /> <img src="https://img.shields.io/badge/NLW-06-05122a?style=flat&logo=license" /></h3>
