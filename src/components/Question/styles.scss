@@ -1,5 +1,3 @@
-@import '../../styles/Custom_Colors';
-
 .question {
   background: #fefefe;
   border-radius: 8px;
@@ -8,6 +6,18 @@
 
   & + .question {
     margin-top: 8px;
+  }
+
+  &.highlighted {
+    background: #f4f0ff;
+    border: 1px solid #837afd;
+
+    footer .user-info span {
+      color: #29292e;
+    }
+  }
+  &.answered {
+    background: #dbdcdd;
   }
 
   p {
@@ -35,6 +45,11 @@
         color: #737380;
         font-size: 14px;
       }
+    }
+
+    > div {
+      display: flex;
+      gap: 16px;
     }
 
     button {
