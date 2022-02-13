@@ -51,6 +51,7 @@ export const Home = () => {
 
   return (
     <div id="page-auth">
+
       <aside>
         <img
           src={illustrationImg}
@@ -59,6 +60,7 @@ export const Home = () => {
         <strong>Crie salas de Q&amp;A ao-vivo</strong>
         <p>Tira as dúvidas da sua audiência em tempo-real!</p>
       </aside>
+
       <main>
         <div className="main-content">
           <img src={logoImg} alt="Logo Letmeask" />
