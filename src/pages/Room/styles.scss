@@ -110,4 +110,37 @@
       margin-top: 32px;
     }
   }
+
+  @media screen and (max-width: 950px) {
+    main {
+      max-width: 700px;
+    }
+  }
+  @media screen and (max-width: 755px) {
+    main {
+      max-width: 600px;
+    }
+  }
+  @media screen and (max-width: 625px) {
+    main {
+      max-width: 450px;
+    }
+  }
+  @media screen and (max-width: 605px) {
+    header {
+      > .content {
+        flex-wrap: wrap;
+
+        > img {
+          margin-bottom: 10px;
+        }
+        > div {
+          flex-wrap: wrap;
+        }
+      }
+    }
+    main {
+      max-width: 350px;
+    }
+  }
 }
