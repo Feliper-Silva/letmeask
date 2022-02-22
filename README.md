@@ -18,7 +18,7 @@ Letmeask é ideal para criar salas Q&A com interação em tempo real com as perg
 - [FireBase](https://firebase.google.com/)
 - [Sass](https://sass-lang.com/)
 
-### 🚧 [Melhoras](DESAFIOS.md)
+### 🚧 [Melhorias](DESAFIOS.md)
 
 ###  🚀 Como executar:
 clone o projeto é entre na pasta do mesmo:
